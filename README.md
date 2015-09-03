@@ -1,1 +1,1 @@
-My first website. Made before Coder's Labs classes.
+My first website.
