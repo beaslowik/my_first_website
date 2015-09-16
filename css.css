@@ -45,12 +45,12 @@ body main {
     padding-bottom: 14vh;
 }
 
-body h1 {
+body h2 {
     letter-spacing: 0.5vmin;
     font-size: 2em;
 }
 
-body h2 {
+body h3 {
     letter-spacing: 0.5vmin;
     font-size: 1.4em;
 }
@@ -76,6 +76,6 @@ body main article section div button {
 
 }
 
-#contact_address {
+.contact section {
     font-size: 1.5em;
 }
